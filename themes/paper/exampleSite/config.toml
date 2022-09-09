@@ -1,4 +1,4 @@
-baseURL = "https://feelcrazy.github.io/"
+baseURL = "https://hugo-paper.vercel.app/"
 # title = "Hugo Themes"
 author = "Steve Francia"
 copyright = "Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved."
@@ -11,16 +11,18 @@ enableInlineShortcodes = true
 ignoreErrors = ["error-remote-getjson"]
 
 # ------------------------------
-theme = "paper"
-title = "Feel Crazy"
+theme = "hugo-paper"
+title = "Paper"
 
 [params]
   color = 'linen'
-  twitter = ''
-  github = 'feelcrazy'
 
-  avatar = 'btming217@gmail.com'
-  name = 'feelcrazy'
+  twitter = 'nanxiaobei'
+  github = 'nanxiaobei'
+  instagram = 'nan.xiaobei'
+
+  avatar = 'nanxiaobei@gmail.com'
+  name = 'Lee'
   bio = 'Discover fresh context'
 
 # ------------------------------
